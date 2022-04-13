@@ -14,7 +14,7 @@ Each generation consists of 15 Individuals.
 There are two input-layers, one output-layer and no hidden layers. The evolution parameters are carefully chosen to be as visual as possible.
 
 
-I played around with deducting Fitness on Death and I came to the conclusion that not doing that leads to ideal and very visual results. Instead, every Dino receives Fitness equal to its score once it collides with an object.
+I played around with decreasing fitness on death but I came to the conclusion that not doing that leads to ideal and very visual results. Instead, every Dino receives fitness equal to its score once it collides with an object.
 
 The "Best Score" display shows the highest score achieved over all generations.
 
