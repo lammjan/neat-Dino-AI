@@ -1,4 +1,4 @@
-# neat Dino AI
+# The Dino AI
 
 - All required modules (pygame; neat-python) and their used versions are found in "requirements.txt"
 - This is loosely based on a video and program by "Code Bullet" (www.youtube.com/c/CodeBullet)
